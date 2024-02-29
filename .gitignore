@@ -1,4 +1,4 @@
-/drfecommerce/drfecommerce
+/drfecommerce
  .pytest_cache
  **__pycache__/
  db.sqlite3
