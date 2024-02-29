@@ -1,7 +1,3 @@
-/drfecommerce
- .pytest_cache
- **__pycache__/
- db.sqlite3
- .env
- .coverage
- .vscode
+.env
+db.sqlite3
+.vscode
