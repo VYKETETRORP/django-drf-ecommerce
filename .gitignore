@@ -1,8 +1,7 @@
- /drfecommerce
+/drfecommerce/drfecommerce
  .pytest_cache
  **__pycache__/
  db.sqlite3
  .env
  .coverage
  .vscode
- commands
