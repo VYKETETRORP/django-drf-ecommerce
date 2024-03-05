@@ -1,4 +1,5 @@
 import os
+
 from dotenv import load_dotenv
 
 load_dotenv() 
@@ -24,6 +25,8 @@ INSTALLED_APPS = [
     #External Packages
     'rest_framework',
     #Internal Apps
+    'drfecommerce.product'
+  
 ]
 
 MIDDLEWARE = [
@@ -37,6 +40,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'drfecommerce.urls'
+
 
 TEMPLATES = [
     {
